@@ -1,86 +1,57 @@
-<!--
-  ============================
-  ATENÇÃO:
-  1) Remova os comentários HTML e preencha com os seus dados.
 
-  2) Não divulgue aqui seu e-mail pessoal e telefone, pois as informações
-  abaixo são públicas. Deixe apenas o seu Linkedin para que as empresas
-  possam entrar em contato.
-
-  3) Para as opções, marque o que se adequa ao que você procura.
-  
-    Por exemplo:
-
-  - [ ] PJ
-  - [x] CLT
-  - [ ] Freela
-  - [ ] Estágio
-
-  Se você quiser trabalhar somente como CLT, marque apenas essa opção.
-  
-  IMPORTANTE: Para visualizar se está tudo correto, antes de publicar seu perfil, clique na 
-  aba "Preview".
-
-  4) Não esqueça de colocar cidade/estado no título, seguindo o padrão:
-  [São Paulo/SP] Maria Joaquina
-  ============================
--->
 
 ## Nome completo
 
-<!-- José da Silva. -->
+Anna Karolline de Sena Souza
 
 ## Localidade
 
-<!-- Cidade / estado onde mora atualmente, por extenso seguindo esse padrão: Cidade - Estado
--->
+Cuiabá-MT
 
 ## Apresentação
 
-<!-- Fale um pouco sobre você e seu histórico -->
+Olá, atualmente sou graduanda em Análise e Desenvolvimento de Sistemas. Tenho 24 anos, sou apaixonada por tecnologia e no momento aspirante a FullStack. Estou em busca de uma primeira oportunidade para aprender, agregar conhecimento e poder desenvolver e praticar tudo que tenho estudado para somar em uma empresa 👩🏻‍💻
+Possuo conhecimentos em JavaScript, HTML5, CSS3, Angular 2, Bootstrap, VSCode, Nodejs, IntellJ IDEA, Maven, jUnit, Git, Github e atualmente aprendendo JAVA, SQL, HIbernate e Spring boot. 
 
 ## Outras Informações
 
-<!-- Cite sua disponibilidade (de horário, de viagens, de mudança, etc), cursos, palestras. -->
+Possuo disponibilidade de horário integral e remoto.
 
 ## Skills
 
-<!-- Coloque suas skills na ordem da mais experiente para a menos experiente. Veja exemplo abaixo.-->
 
-<!--
 - JavaScript
 - HTML
 - CSS
-- PHP
--->
+- ANGULAR
+- JAVA
+
 
 ## Áreas de Interesse
-<!-- Coloque todas as áreas com as quais vocẽ deseja trabalhar, adicione alguma se não tiver na lista -->
 
-<!--
-- [ ] Frontend
-- [ ] Backend
-- [ ] Fullstack
+- [X] Frontend
+- [X] Backend
+- [X] Fullstack
 - [ ] Mobile
 - [ ] UX
 - [ ] DevOps
 - [ ] Infra
--->
+
 
 ## Tipo de contratação
 
-<!--
-- [ ] PJ
-- [ ] CLT
-- [ ] Estágio
-- [ ] Júnior
+
+- [X] PJ
+- [X] CLT
+- [X] Estágio
+- [X] Júnior
 - [ ] Freela
--->
+
 
 ## Contato
 
-<!-- https://linkedin.com/in/SEU_USERNAME -->
+https://www.linkedin.com/in/anna-karolline-61674b206/
 
 ## Site
 
-<!-- coloque seu site/blog/portfólio caso desejar -->
+https://github.com/karollinesena2
